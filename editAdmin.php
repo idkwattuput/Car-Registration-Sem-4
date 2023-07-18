@@ -79,7 +79,7 @@ if(isset($_POST['Submit'])){
 ?>
 <head>
   <title>
-    Ikhwan Ashraf Eza
+    Ikhwan Ashraf Ezaa
   </title>
   <link rel="icon" href="car.png" type="image/x-icon">
 </head>
